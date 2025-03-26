@@ -1,7 +1,7 @@
 # Airbnb
 # Predicting and Profiling Superhosts: A Data-Driven Strategy for Airbnb
 
-This repository presents a comprehensive data science project that aims to help Airbnb hosts achieve and maintain Superhost status through predictive modeling and clustering techniques. The project was developed as part of the **AI for Business Decisions** course at **Purdue University**.
+This repository presents a comprehensive data science project that aims to help Airbnb hosts achieve and maintain Superhost status through predictive modeling and clustering techniques. 
 
 ## 📌 Project Overview
 
