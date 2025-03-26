@@ -1,7 +1,6 @@
 # Airbnb Superhost Prediction & Clustering
 
-This project predicts Airbnb Superhost status and segments hosts using machine learning. Built as part of Purdue’s *AI for Business Decisions* course.
-
+This project predicts Airbnb Superhost status and segments hosts using machine learning. 
 ## 🔍 Project Goals
 - Predict if a host will become a Superhost using historical listing data.
 - Cluster hosts to identify top performers, at-risk Superhosts, and high-potential non-Superhosts.
